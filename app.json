@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HealthVault",
-    "slug": "healthvault-app",
+    "name": "Feliz Healthy",
+    "slug": "felizhealthy-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
